@@ -1,2 +1,7 @@
 # hello-world
-Newb Repository
+==============
+
+
+Hello GitHub,
+
+Just sharpening my Javascript and Python skills at the moment. 
